@@ -43,5 +43,15 @@ public class BMI {
     }
 }
 
+/*
+Enter number of persons: 2
+Enter weight of person 1 (kg): 70
+Enter height of person 1 (cm): 120
+Enter weight of person 2 (kg): 45
+Enter height of person 2 (cm): 150
 
+--- BMI Report ---
+Person 1: Weight = 70.00 kg, Height = 120.00 cm, BMI = 48.61, Status = Obese
+Person 2: Weight = 45.00 kg, Height = 150.00 cm, BMI = 20.00, Status = Normal
+ */
 
