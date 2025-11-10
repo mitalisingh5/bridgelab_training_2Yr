@@ -34,6 +34,7 @@ Each branch represents a focused learning module — starting from core fundamen
 | 7 | Sep 22–24, 2025 | OOPs Practice | Implemented encapsulation, inheritance, and abstraction in real-world code |
 | 8 | Oct 13–15, 2025 | Interfaces & Lambdas | Functional Interfaces, Default/Static methods, Marker Interfaces, Lambda expressions |
 | 9 | Oct 27–29, 2025 | Packages & Exceptions | Packages, Exception Handling, Wrapper Classes, Autoboxing, and Unboxing |
+|10| Nov 03–05, 2025 | Maven project,connecting database | java backend code to fetch DataBase |
 
 ---
 
@@ -69,7 +70,7 @@ Each branch represents a focused learning module — starting from core fundamen
 | 🛠 TOOL | 🎯 PURPOSE |
 |----------|-------------|
 | JAVA JDK 25 | Core Java Development |
-| INTELLIJ IDEA | Integrated Development Environment (IDE) |
+|ECLIPS-WORKSHOP | Integrated Development Environment (IDE) |
 | GIT & GITHUB | Version Control and Collaboration |
 | GIT BASH | Command-line operations and repository setup |
 
