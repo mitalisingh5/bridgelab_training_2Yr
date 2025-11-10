@@ -10,7 +10,7 @@ Each branch represents a focused learning module — starting from core fundamen
 
 | 🔖 BRANCH NAME | 🎯 FOCUS AREA | 📘 KEY CONCEPTS COVERED |
 |----------------|----------------|--------------------------|
-| `Main` | REPORT OF EACH CLASS | notes.docx|
+| `Main` | REPORT OF EACH CLASS | notes.docx & README.md|
 | `java-core` | Java Fundamentals | Syntax, data types, loops, arrays, strings, and logic building |
 | `java-oops` | Object-Oriented Programming | Classes, inheritance, polymorphism, abstraction, encapsulation |
 | `packages-in-java` | Code Organization | Creating and importing packages, access modifiers |
