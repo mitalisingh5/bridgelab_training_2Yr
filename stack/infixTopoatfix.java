@@ -1,9 +1,8 @@
-// Online Java Compiler
-// Use this editor to write, compile and run your Java code online
+
 
 import java.util.Stack;
 
-public class infixTopostfix {
+public class infixTopoatfix {
 
     static int pre(char ch) {
         if (ch == '+' || ch == '-') return 1;
